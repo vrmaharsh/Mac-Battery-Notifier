@@ -129,12 +129,6 @@ At **99%**, you’ll get a special notification:
 
 ---
 
-## 🎯 Future Improvements  
-- 🔹 Add a web dashboard to track battery stats  
-- 🔹 Notify when Mac is unplugged  
-
----
-
 ## 🤝 Contributing  
 Feel free to submit **pull requests** if you can improve the script! 🚀  
 

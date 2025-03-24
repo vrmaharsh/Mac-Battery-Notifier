@@ -46,8 +46,8 @@ brew install curl
    ```
 4. Find `"chat": {"id": YOUR_CHAT_ID}` → **Copy your `CHAT_ID`**.  
 
-📌 **Example Image:** *<img width="488" alt="image" src="https://github.com/user-attachments/assets/d8b50c6e-f3a1-4252-bc4f-bf5a49b7124e" />
-*  
+📌 **Example Image:** <img width="1143" alt="image" src="https://github.com/user-attachments/assets/b2c698b9-5b16-4037-9a61-ee6f4644d146" />
+
 
 ---
 

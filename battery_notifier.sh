@@ -1,7 +1,7 @@
 #!/bin/bash
 
-BOT_TOKEN="7919802715:AAFI0Evw46WQCii4q4lK_xFCP6KkLNL79Ts"
-CHAT_ID="942279686"
+BOT_TOKEN="your_bot_token_here"
+CHAT_ID="your_chat_id_here"
 
 battery=$(pmset -g batt | grep -o "[0-9]\+%")
 battery_level=$(echo $battery | tr -d '%')  # Remove % sign to get numeric value
